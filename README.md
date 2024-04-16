@@ -27,13 +27,13 @@ To get started with the React Blog project, follow these steps:
 
 2. **Install Dependencies for Frontend:**
    ```
-   cd React blog/frontend
+   cd React blog/blog
    npm install
    ```
 
 3. **Install Dependencies for Backend:**
    ```
-   cd ../backend
+   cd ../api
    npm install
    ```
 

@@ -1,0 +1,14 @@
+.heading{
+    font-size: x-large;
+    border-bottom: 1px solid gray;
+    margin: 20px;
+}
+.desc{
+    margin: 20px;
+}
+.info{
+    margin: 20px;
+}
+.info span{
+    font-weight: 600;
+}
